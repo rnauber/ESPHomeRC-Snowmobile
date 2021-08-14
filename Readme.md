@@ -35,16 +35,22 @@ Connect the H bridge to the ESP32 like this:
 
 
 
-
-|   |   |   | 
-|---|---|---|
-| <img src="media/pic1.jpg" height="400"> | <img src="media/pic2.jpg" height="400"> |
-| <img src="media/pic3.jpg" height="400"> | <img src="media/pic4.jpg" height="400"> |
-| <img src="media/pic5.jpg" height="400"> |  |
-
+<p align="center">
+ <img src="media/pic1.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="media/pic4.jpg" width="45%">
+</p>
+<p align="center">
+ <img src="media/pic2.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="media/pic3.jpg" width="45%">
+</p>
+<p align="center">
+ <img src="media/pic5.jpg" width="45%">
+</p>
 
 ## The Firmware
-[The firmware](firmware/snowmobile.yaml) is completely open and easily hackable. 
+[The firmware](firmware/rcsnowmobile.yaml) is completely open and easily hackable. 
 It is based on <a href="https://esphome.io/"><img src="https://esphome.io/_images/logo-text.png" height="16" ></a>. You just describe your setup in a yaml file and a firmware will be generated.
 
 ### Preparation
@@ -61,7 +67,6 @@ Get a *3.3V USB to serial adapter* (like [this](https://www.amazon.de/gp/product
 |VCR  | RX |
 |VCT   | TX  |
 |GND  | GND  |
-
 
 
 ```
