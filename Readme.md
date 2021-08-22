@@ -1,14 +1,12 @@
 
+
+
 # RC Snowmobile
 
-TL;DR
-
-I build a low-cost tracked vehicle with a ESP32-CAM module, which
+*TL;DR*: I build a low-cost tracked vehicle with a ESP32-CAM module, which
 can be controlled via WIFI with an <a href="https://github.com/rnauber/ESPHomeRC">Open Source Android app <img src="https://raw.githubusercontent.com/rnauber/ESPHomeRC/master/logo3.png" height="16">ESPHomeRC</a>.
 
-
-[![test drive of the RC snowmobile](/media/snowmobile.gif "a test drive of the RC snowmobile")<br> click for higher quality video](https://raw.githubusercontent.com/rnauber/ESPHomeRC-Snowmobile/main/media/snowmobile.mp4)
-
+https://user-images.githubusercontent.com/7414650/130363255-88e8d154-7f2f-482e-917b-6f8376736e70.mp4
 
 ## The Hardware
 ### Bill of Materials
